@@ -1,3 +1,5 @@
+<?php
+
 function getBigIntSum(string $a, string $b) : string
 {
     $getAbsolute = function(string $value) : string
